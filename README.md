@@ -22,7 +22,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 * Adobe Photoshop, Adobe Premier Pro
 
 ## Education: 
-* Belarussian Sate Economic University, Minsk
+* Belarussian State Economic University, Minsk
 
 ## Projects 
 - To Do List (JS, HTML, CSS): https://aoneban.github.io/todolist/
