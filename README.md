@@ -29,7 +29,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 - To Do List (JS, HTML, CSS): https://aoneban.github.io/todolist/
 - Coffee-house (JS, HTML, CSS): https://aoneban.github.io/coffee-house/main/index.html
 - SongBird (JS, HTML, SCSS, Webpack): https://aoneban.github.io/migrate-from-rss/songbird/index.html
-- Virtual keyboard (JS, HTML, SCSS): https://v-keyboard.netlify.app/
+- Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
 - NCinema (JS, HTML, CSS, Webpack, REST API): https://ncinema.netlify.app/
 - Minesweeper (JS, HTML, CSS, Webpack): https://aoneban-minesweeper.netlify.app/
 
