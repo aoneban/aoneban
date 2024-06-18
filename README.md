@@ -32,6 +32,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
 - NCinema (JS, HTML, CSS, Webpack, REST API): https://ncinema.netlify.app/
 - Minesweeper (JS, HTML, CSS, Webpack): https://aoneban-minesweeper.netlify.app/
+- Nonograms (JS, HTML, CSS, Webpack): https://rolling-scopes-school.github.io/aoneban-JSFE2023Q4/nonograms/index.html
 
 ## Languages
 * Russian - Native
