@@ -35,6 +35,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 - Nonograms (JS, HTML, CSS, Webpack): https://rolling-scopes-school.github.io/aoneban-JSFE2023Q4/nonograms/index.html
 
 ## Languages
-* Russian - Native
-* English - B1
-* Polish - Intermediate
+* English - B2
+* Polish - B2
+* Russian - C1
+
