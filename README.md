@@ -11,13 +11,14 @@
 ## About Me
 I am an innovative, creative developer who is adept at coming up with real solutions that work for clients. As a person, I am pro-active, responsible and quality oriented. I have strong analytical skills and a structured way of working and the courage to try new things.
 ## Skills
+* JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
+* Good knowledge in the Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * HTML5
 * CSS (Bootstrap, SASS/SCSS)
-* JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
-* React JS (JSX, Virtual DOM, Node.js), Redux (intermediate level knowledge).
+* React JS (JSX, Virtual DOM, Node.js), Redux.
+* Figma, PerfectPixel.
 * Module Bundler: Webpack.
 * Native PHP
-* Good knowledge in the Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * Version control: Git (remote service GitHub)
 * Editors: VSCode, VS, CodeLobster
 * Adobe Photoshop, Adobe Premier Pro
@@ -27,12 +28,12 @@ I am an innovative, creative developer who is adept at coming up with real solut
 
 ## Projects 
 - To Do List (JS, HTML, CSS): https://aoneban.github.io/todolist/
-- Coffee-house (JS, HTML, CSS): https://aoneban.github.io/coffee-house/main/index.html
-- Hangman (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/index.html
+- Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
+- Hangman (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
+- Nonograms (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
 - NCinema (JS, HTML, CSS, Webpack, REST API): https://ncinema.netlify.app/
-- Minesweeper (JS, HTML, CSS, Webpack): https://aoneban-minesweeper.netlify.app/
-- Nonograms (JS, HTML, CSS, Webpack): https://rolling-scopes-school.github.io/aoneban-JSFE2023Q4/nonograms/index.html
+- Minesweeper (JS, HTML, SCSS, Webpack): https://aoneban-minesweeper.netlify.app/
 
 ## Languages
 * English - B2
