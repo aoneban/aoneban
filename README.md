@@ -27,6 +27,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 
 ## Projects 
 - To Do List (JS, HTML, CSS): https://aoneban.github.io/todolist/
+- Slider (JS, HTML, CSS): https://aoneban.github.io/slider/
 - Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
 - Hangman (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
