@@ -14,7 +14,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
 * Good knowledge in the Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * TypeScript
-* React JS (JSX, Virtual DOM), Redux
+* React JS, Next JS, (JSX, Virtual DOM), Redux
 * HTML5, CSS (Bootstrap, SASS/SCSS, Tailwind)
 * Figma, PerfectPixel
 * Module Bundlers: Webpack, Vite
