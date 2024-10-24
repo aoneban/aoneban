@@ -38,5 +38,5 @@ I am an innovative, creative developer who is adept at coming up with real solut
 ## Languages
 * English - B2
 * Polish - B2
-* Russian - C1
+* Russian - C2
 
