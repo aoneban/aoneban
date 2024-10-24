@@ -13,10 +13,10 @@
 I am an innovative, creative developer who is adept at coming up with real solutions that work for clients. As a person, I am pro-active, responsible and quality oriented. I have strong analytical skills and a structured way of working and the courage to try new things.
 ## Skills
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
-* Good knowledge in the Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
+* Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * TypeScript
 * React JS, Next JS, (JSX, Virtual DOM), Redux
-* HTML5, CSS (Bootstrap, SASS/SCSS, Tailwind)
+* HTML5, CSS (Bootstrap, SASS/SCSS, Tailwind, Material UI)
 * Figma, PerfectPixel
 * Module Bundlers: Webpack, Vite
 * Node.js
@@ -33,7 +33,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 - Hangman (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
 - Nonograms (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
-- NCinema (JS, HTML, CSS, Webpack, REST API): https://ncinema.netlify.app/
+- Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bagiran.online/
 
 ## Languages
 * English - B2
