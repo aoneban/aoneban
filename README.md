@@ -32,7 +32,7 @@ I am an innovative, creative developer who is adept at coming up with real solut
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
 - Nonograms Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
 - Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bagiran.online/
-- Async Race (Angular/NgRx/RxJs,TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
+- Async Race (Angular/NgRx/RxJs, TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
   
 ## Languages
 * English - B2
