@@ -27,14 +27,13 @@ I am an innovative, creative developer who is adept at coming up with real solut
 * Belarussian State Economic University, Minsk
 
 ## Projects 
-- To Do List (JS, HTML, CSS): https://aoneban.github.io/todolist/
-- Slider (JS, HTML, CSS): https://aoneban.github.io/slider/
 - Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
-- Hangman (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
+- Hangman Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
-- Nonograms (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
+- Nonograms Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
 - Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bagiran.online/
-
+- Async Race (Angular/NgRx/RxJs,TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
+  
 ## Languages
 * English - B2
 * Polish - B2
