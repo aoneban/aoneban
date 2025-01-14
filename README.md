@@ -9,30 +9,28 @@
 * [GitHub](https://github.com/aoneban)
 * [Telegram](https://t.me/arsenal_2004)
 
-## About Me
-I am an innovative, creative developer who is adept at coming up with real solutions that work for clients. As a person, I am pro-active, responsible and quality oriented. I have strong analytical skills and a structured way of working and the courage to try new things.
 ## Skills
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
 * Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * TypeScript
-* React/Redux, Angular/NgRx, Next JS
-* HTML5, CSS (Bootstrap, SASS/SCSS, Tailwind, Material UI)
+* Angular/NgRx/RxJs, React/Redux, Next JS
+* HTML5, CSS3 (Bootstrap, SASS/SCSS, Tailwind, Material UI)
 * Figma, PerfectPixel
 * Module Bundlers: Webpack, Vite
 * Node.js
 * Version control: Git (remote service GitHub)
-* Editors: VSCode, VS, CodeLobster
+* Editors: VSCode
 
 ## Education: 
 * Belarussian State Economic University, Minsk
 
 ## Projects 
+- Async Race (Angular/NgRx/RxJs, TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
 - Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
 - Hangman Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
 - Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
 - Nonograms Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
 - Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bagiran.online/
-- Async Race (Angular/NgRx/RxJs, TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
   
 ## Languages
 * English - B2
