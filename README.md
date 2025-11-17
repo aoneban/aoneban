@@ -4,7 +4,7 @@
 * 🏡 Location: Poznań, Poland
 * ☎️ Phone: +48 505 643 923
 * 📧 E-mail: torgregion1@gmail.com
-* [Portfolio](https://ashot-bagiran.netlify.app/)
+* [Portfolio](https://ashot-bahiran.netlify.app/)
 * [LinkedIn](https://www.linkedin.com/in/ashot-bahiran-3a1ab022b/)
 * [GitHub](https://github.com/aoneban)
 * [Telegram](https://t.me/arsenal_2004)
