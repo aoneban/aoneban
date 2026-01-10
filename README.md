@@ -13,7 +13,7 @@
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
 * Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * TypeScript
-* Angular/NgRx/RxJs, React/Redux, Next JS
+* Angular/NgRx/RxJs/Signals, React/Redux, Next JS
 * HTML5, CSS3 (Bootstrap, SASS/SCSS, Tailwind, Material UI)
 * Figma, PerfectPixel
 * Module Bundlers: Webpack, Vite
@@ -25,7 +25,7 @@
 * Belarussian State Economic University, Minsk
 
 ## Projects 
-- Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bagiran.online/
+- Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bahiran.netlify.app/
 - Async Race (Angular/NgRx/RxJs, TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
 - Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
 - Christmas Shop (JS, HTML, SCSS, Vite): https://aoneban.netlify.app/
