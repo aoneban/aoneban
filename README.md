@@ -12,29 +12,19 @@
 * JavaScript (Fundamentals, Functional Programming, OOP, Asynchronous JavaScript, ES6+, DOM), JSON.
 * Algorithms and Data structures (AVL, Binary trees, Graph, sorting algorithms)
 * TypeScript
-* Angular/NgRx/RxJs/Signals, React/Redux, Next JS
+* Angular (Standalone components, Router, dependency injection, HttpClient, Signals, typed inputs/outputs, template-driven forms with ngModel).
 * HTML5, CSS3 (Bootstrap, SASS/SCSS, Tailwind, Material UI)
 * Figma, PerfectPixel
 * Module Bundlers: Webpack, Vite
-* Node.js
+* Node.js, PHP, MySQL
 * Version control: Git (remote service GitHub)
 * Editors: VSCode
 
 ## Education: 
 * Belarussian State Economic University, Minsk
 
-## Projects 
-- Portfolio (JS, HTML, CSS, Vite, Node.js): https://ashot-bahiran.netlify.app/
-- Async Race (Angular/NgRx/RxJs, TypeScript, CSS/Material UI): https://as-race-bagiran.netlify.app/
-- Coffee-house (JS, HTML, SCSS): https://aoneban.github.io/coffee-house/main/index.html
-- Christmas Shop (JS, HTML, SCSS, Vite): https://aoneban.netlify.app/
-- Simon Says (JS, HTML, SCSS, Vite): https://aoneban-simon-says.netlify.app/
-- Nonograms (JS, HTML, SCSS, Webpack): https://aoneban.github.io/nonograms/
-- Virtual keyboard (JS, HTML, SCSS): https://aoneban.github.io/virtual-keyboard/
-- Hangman Game (JS, HTML, SCSS, Webpack): https://aoneban.github.io/hangman/
-  
 ## Languages
 * English - B2
 * Polish - C1
-* Russian - C2
+* Russian, Belarussian - native
 
